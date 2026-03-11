@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Sebastian Ocampo
 
-<!--
-**JsebastianOcampo07/JsebastianOcampo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estoy aprendiendo programación  
+📚 Interesado en desarrollo web y bases de datos  
+🚗 Actualmente haciendo curso de conducción  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Actualmente aprendiendo
+
+- Programación
+- Bases de datos
+- Git y GitHub
+
+---
+
+## 🛠 Tecnologías que quiero aprender
+
+- Python
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 📫 Mi perfil
+
+https://github.com/JsebastianOcampo07
+
+---
+
+⭐ Gracias por visitar mi perfil
